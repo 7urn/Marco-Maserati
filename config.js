@@ -15,12 +15,12 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "Koi Node V4",
-      password: "prplmoe.me",
-      host: "lavav4.prplmoe.me",
-      port: 1118,
-      secure: false
-    },
+  identifier: "AjieDev - Lavalink [SSL]",
+  password: "https://dsc.gg/ajidevserver",
+  host: "lava-v3.ajieblogs.eu.org",
+  port: 443,
+  secure: true
+},
     {
       name: "ChalresNaig Node",
       password: "NAIGLAVA-dash.techbyte.host",
