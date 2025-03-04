@@ -15,10 +15,9 @@ module.exports = {
   errorLog: "", 
    nodes: [
      {
-      name: "Koi Node V4",
-      password: "saher.inzeworld.com",
-      host: "lava.inzeworld.com",
-      port: 3128,
+      host: "lava.catfein.com",
+      password: "catfein",
+      port: 4000, 
       secure: false
     }
   ]
