@@ -16,8 +16,8 @@ module.exports = {
    nodes: [
      {
       host: "lava.catfein.com",
-      password: "catfein",
       port: 4000, 
+      password: "catfein",
       secure: false
     }
   ]
