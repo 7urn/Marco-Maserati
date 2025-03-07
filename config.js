@@ -15,10 +15,10 @@ module.exports = {
   errorLog: "", 
    nodes: [
 {
-  identifier: "Public Lavalink v4 NonSSL",
-  password: "https://dsc.gg/ajidevserver",
-  host: "lava-v4.ajieblogs.eu.org",
-  port: 80,
+  identifier: "INZEWORLD.COM (DE)",
+  password: "saher.inzeworld.com",
+  host: "lava.inzeworld.com",
+  port: 3128,
   secure: false
 }
   ]
