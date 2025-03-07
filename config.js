@@ -8,17 +8,17 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "Hino", 
+  activityName: "Imprecazioni di 3v4ns", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/43VDd3UTrM",
   embedTimeout: 5, 
   errorLog: "", 
    nodes: [
 {
-  identifier: "ChalresNaig Node",
-  password: "NAIGLAVA-dash.techbyte.host",
-  host: "lavahatry4.techbyte.host",
-  port: 3000,
+  identifier: "Muzykant v4",
+  password: "https://discord.gg/v6sdrD9kPh",
+  host: "lavalink_v4.muzykant.xyz",
+  port: 80,
   secure: false
 }
   ]
