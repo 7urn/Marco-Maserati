@@ -20,6 +20,6 @@ module.exports = {
   host: "lava-v4.ajieblogs.eu.org",
   port: 80,
   secure: false
-    }
+}
   ]
 }
