@@ -8,7 +8,7 @@ module.exports = {
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
-  activityName: "Imprecazioni di 3v4ns", 
+  activityName: "Inazuma Eleven Italia", 
   activityType: "LISTENING",  // Available activity types : LISTENING , PLAYING
   SupportServer: "https://discord.gg/43VDd3UTrM",
   embedTimeout: 5, 
