@@ -14,6 +14,14 @@ module.exports = {
   embedTimeout: 5, 
   errorLog: "", 
    nodes: [
+     
+{
+  identifier: "Disutils Team Lavalink 1",
+  password: "https://disutils.com",
+  hos: "lavalink-1.is-it.pink",
+  port: 443,
+  secure: true
+     }
 {
   identifier: "Public Lavalink v4",
   password: "https://dsc.gg/ajidevserver",
