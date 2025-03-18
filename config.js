@@ -16,11 +16,11 @@ module.exports = {
    nodes: [
      
 {
-  identifier: "Disutils Team Lavalink 1",
-  password: "https://disutils.com",
-  hos: "lavalink-1.is-it.pink",
+  identifier: "Public Lavalink v4",
+  password: "https://dsc.gg/ajidevserver",
+  host: "lava-v4.ajieblogs.eu.org",
   port: 443,
-  secure: true
+  secure": true
 }
   ]
 }
